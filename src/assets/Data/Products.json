@@ -1,0 +1,183 @@
+{
+  "manproducts": [
+    {
+      "id": 1,
+      "type": "zapatillas",
+      "brand": "Nike",
+      "price": 99.99,
+      "img": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,b_rgb:f5f5f5/q0rpef3dtu72cnfgjlgt/air-force-1-07-zapatillas-3nGnlt.png",
+      "name": "Air Force 1 `07",
+      "color": "Negro/Blanco",
+      "gender": "Hombre",
+      "sizes": ["38", "39", "40", "41", "42", "43"]
+    },
+    {
+      "id": 2,
+      "type": "zapatillas",
+      "brand": "Nike",
+      "price": 99.99,
+      "img": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,b_rgb:f5f5f5/42540562-37e6-47e6-91a1-c5f68dfbc1a0/blazer-mid-77-zapatillas-97qRhl.png",
+      "name": "Blazer Mid `77",
+      "color": "White",
+      "gender": "Hombre",
+      "sizes": ["38", "39", "40", "41", "42", "43"]
+    },
+
+    {
+      "id": 3,
+      "type": "camisetas",
+      "brand": "Nike",
+      "price": 29.85,
+      "img": "https://img01.ztat.net/article/spp-media-p1/8d799a3a7af742d79b1a3ae75c18f596/063de94feb93435684c6ef1c46a4dda1.jpg?imwidth=1800&filter=packshot",
+      "name": "Tee Nike Air",
+      "color": "Black",
+      "gender": "Hombre",
+      "sizes": ["S", "M", "L"]
+    },
+    {
+      "id": 4,
+      "type": "camisetas",
+      "brand": "Vans",
+      "price": 33.0,
+      "img": "https://img01.ztat.net/article/spp-media-p1/c91083eb34383e809c55137f17687228/f490abe89517426b816a4dba59b49ed1.jpg?imwidth=1800&filter=packshot",
+      "name": "MN Planta SS",
+      "color": "Blanco antiguo",
+      "gender": "Hombre",
+      "sizes": ["S", "M", "L"]
+    },
+    {
+      "id": 5,
+      "type": "pantalones",
+      "brand": "Levi's",
+      "price": 69.95,
+      "img": "https://img01.ztat.net/article/spp-media-p1/519c5c21d2703b2d902ff1f1bc1e174f/6ff28ac3dee04f9cafb2faef73b206ea.jpg?imwidth=1800&filter=packshot",
+      "name": "519 Skinny Ball",
+      "color": "Negro",
+      "gender": "Hombre",
+      "sizes": ["S", "M", "L"]
+    },
+    {
+      "id": 6,
+      "type": "pantalones",
+      "brand": "Lee",
+      "price": 99.95,
+      "img": "https://img01.ztat.net/article/spp-media-p1/73e4a1d1c0c94dee881bf9906ac7fa34/841050418a3942a4bf88a6b3aa5c5d5d.jpg?imwidth=1800&filter=packshot",
+      "name": "Trenton",
+      "color": "Azul",
+      "gender": "Hombre",
+      "sizes": ["S", "M", "L"]
+    },
+    {
+      "id": 7,
+      "type": "abrigos",
+      "brand": "Nike",
+      "price": 64.95,
+      "img": "https://img01.ztat.net/article/spp-media-p1/1bc02f717bf44143a054a49ae177f8d4/855e284c803544ec933ed217369b2f99.jpg?imwidth=1800&filter=packshot",
+      "name": "Jersey con capucha",
+      "color": "Morado",
+      "gender": "Hombre",
+      "sizes": ["S", "M", "L"]
+    },
+    {
+      "id": 8,
+      "type": "abrigos",
+      "brand": "Carhartt WIP",
+      "price": 84.95,
+      "img": "https://img01.ztat.net/article/spp-media-p1/1c18a535450247f3bdc6403719aa5074/c6780b6342b94565a1bdfcfaec120960.jpg?imwidth=1800&filter=packshot",
+      "name": "Hooded American Script",
+      "color": "Vinotinto",
+      "gender": "Hombre",
+      "sizes": ["S", "M", "L"]
+    }
+  ],
+  "womanproducts": [
+    {
+      "id": 9,
+      "type": "zapatillas",
+      "brand": "Adidas",
+      "price": 95,
+      "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/698e41ae0196408eb16aa7fb008046ad_9366/Zapatilla_Gazelle_Azul_BB5478_01_standard.jpg",
+      "name": "Gazelle",
+      "color": "Azul/blanco",
+      "gender": "Mujer",
+      "sizes": ["36", "37", "38", "39", "40", "41"]
+    },
+    {
+      "id": 10,
+      "type": "zapatillas",
+      "brand": "Reebok",
+      "price": 100,
+      "img": "https://assets.reebok.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/fac1a80d83b64580b381ad42002724b7_9366/Classic_Leather_Legacy_AZ_Beige_GW6181_01_standard.jpg",
+      "name": "Classic Leather Legacy AZ",
+      "color": "Blanco/Rojo/Amarillo",
+      "gender": "Mujer",
+      "sizes": ["36", "37", "38", "39", "40", "41"]
+    },
+    {
+      "id": 11,
+      "type": "camisetas",
+      "brand": "Adidas",
+      "price": 29.95,
+      "img": "https://img01.ztat.net/article/spp-media-p1/d8d81236e23a4bd795021224f2979069/1be622a1f2c1475595b3d264e664b507.jpg?imwidth=1800&filter=packshot",
+      "name": "Stripes Tee",
+      "color": "Azul",
+      "gender": "Mujer",
+      "sizes": ["S", "M", "L"]
+    },
+    {
+      "id": 12,
+      "type": "camisetas",
+      "brand": "Levi's",
+      "price": 28.95,
+      "img": "https://img01.ztat.net/article/spp-media-p1/7d7cfa0d1e6b3a819d9f53a74ccf5889/3371674c8d1d4b0599632d41456dd8f5.jpg?imwidth=1800&filter=packshot",
+      "name": "The Perfect Tee",
+      "color": "Rojo",
+      "gender": "Mujer",
+      "sizes": ["S", "M", "L"]
+    },
+    {
+      "id": 13,
+      "type": "pantalones",
+      "brand": "American Eagle",
+      "price": 89.95,
+      "img": "https://img01.ztat.net/article/spp-media-p1/0518006d60d235e390b2a6fa0bf561c7/09daed6494c44c77975448c6085beb5c.jpg?imwidth=1800&filter=packshot",
+      "name": "Vaqueros Slim Fit",
+      "color": "Azul",
+      "gender": "Mujer",
+      "sizes": ["S", "M", "L"]
+    },
+    {
+      "id": 14,
+      "type": "pantalones",
+      "brand": "Levi's",
+      "price": 64.95,
+      "img": "https://img01.ztat.net/article/spp-media-p1/648b040e574b410d938618fdcb1051ac/5412199cc19646e4b5975fdc05b7e260.jpg?imwidth=1800&filter=packshot",
+      "name": "Ribcage Skirt",
+      "color": "Negro",
+      "gender": "Mujer",
+      "sizes": ["S", "M", "L"]
+    },
+    {
+      "id": 15,
+      "type": "abrigos",
+      "brand": "Nike",
+      "price": 54.95,
+      "img": "https://img01.ztat.net/article/spp-media-p1/e4a6e489f876493cb4b77715a92f73cd/649041cd46624fa491953accd2a6caf2.jpg?imwidth=1800&filter=packshot",
+      "name": "Sudadera",
+      "color": "Gris",
+      "gender": "Mujer",
+      "sizes": ["S", "M", "L"]
+    },
+    {
+      "id": 16,
+      "type": "abrigos",
+      "brand": "Adidas",
+      "price": 64.95,
+      "img": "https://img01.ztat.net/article/spp-media-p1/811368017b5d32e0aaa7acdf77482b9e/7c9966c4ea4c427781d120a94e2929bc.jpg?imwidth=1800&filter=packshot",
+      "name": "R.Y.V Crop Hoodie",
+      "color": "Multicolor",
+      "gender": "Mujer",
+      "sizes": ["S", "M", "L"]
+    }
+  ]
+}

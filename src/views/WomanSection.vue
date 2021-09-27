@@ -1,21 +1,22 @@
 <template>
   <Header />
-  <Homepage />
+  <WomanPage />
   <Footer />
 </template>
 
 <script>
-// @ is an alias to /src
-import Homepage from "@/components/Homepage.vue";
 import Header from "@/components/Header.vue";
+import WomanPage from "@/components/WomanPage.vue";
 import Footer from "@/components/Footer.vue";
-
 export default {
-  name: "Home",
+  name: "WomanSection",
   components: {
-    Homepage,
     Header,
+    WomanPage,
     Footer,
   },
 };
 </script>
+
+<style>
+</style>

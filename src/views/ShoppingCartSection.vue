@@ -1,21 +1,27 @@
 <template>
   <Header />
-  <Homepage />
+  <ShoppingCartPage />
   <Footer />
 </template>
 
 <script>
-// @ is an alias to /src
-import Homepage from "@/components/Homepage.vue";
 import Header from "@/components/Header.vue";
+import ShoppingCartPage from "@/components/ShoppingCartPage.vue";
 import Footer from "@/components/Footer.vue";
-
 export default {
-  name: "Home",
+  name: "ShopingCartSection",
   components: {
-    Homepage,
     Header,
+    ShoppingCartPage,
     Footer,
+  },
+  data() {
+    return {
+      prop: null,
+    };
   },
 };
 </script>
+
+<style>
+</style>
